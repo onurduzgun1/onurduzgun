@@ -9,8 +9,6 @@
 <a href="https://linkedin.com/in/onur-d-a67221a1" target="blank"><img align="center" src="https://github.com/onurduzgun1/onurduzgun/blob/main/linkedinicon.png" height="30" width="40" /></a>
 <a href="mailto:onurduzgun1@gmail.com" target="blank"><img align="center" src="https://github.com/onurduzgun1/onurduzgun/blob/main/gmailicon.png" height="30" width="40" /></a>
 </p>
-
-- How to reach me 📫onurduzgun1@gmail.com
 <br><br>
 <hr>
 
